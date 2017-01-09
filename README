@@ -7,7 +7,9 @@ HOW TO INSTALL:
  1. Download the release 1.1-1 tarball for your 64 bit Linux from:
     https://github.com/jamiesonbecker/smokinguns/releases/tag/v1.1-1
 
- 2. Extract this directory to /usr/local/games/smokinguns/
+ 2. Extract this tarball to /usr/local/games/smokinguns/:
+    curl -L https://github.com/jamiesonbecker/smokinguns/releases/download/v1.1-1/smokinguns.tar.gz | \
+        sudo tar -zxC /usr/local/games/
 
  3. You may need to:
 
