@@ -24,7 +24,7 @@ HOW TO INSTALL:
 
  3. Finally, execute:
 
-    sudo ln -sf /usr/local/games/smokinguns/smokinguns.desktop /usr/share/applications/smokinguns.desktop
+        sudo ln -sf /usr/local/games/smokinguns/smokinguns.desktop /usr/share/applications/smokinguns.desktop
 
  4. Finished - it should be in your games menu!
 
