@@ -1,4 +1,32 @@
-This is a complete install of Smoking Guns 1.1 (git as of Jan 8, 2017),
+This is a complete install of Smoking Guns 1.1 for Linux (git as of Jan 8, 2017),
 including all optional maps and packs available as of that date, compiled for 64-bit Linux.
 
+HOW TO INSTALL:
+===============
+
+ 1. Click releases just above (Releases: 1)
+
+ 2. Download the current release 1.1-1 tarball.  (This is compiled for 64-bit Linux only.)
+
+ 3. Extract this directory to /usr/local/games/smokinguns/
+
+ 4. You may need to:
+
+        sudo apt-get install libsdl-dev libfreetype6-dev libgl1-mesa-dev
+
+    or, perhaps on fedora:
+
+        sudo dnf install libsdl-devel libfreetype6-devel libgl1-mesa-devel
+
+    or other  redhat platform (just quessing)
+
+        sudo yum install libsdl-devel libfreetype6-devel libgl1-mesa-devel
+
+ 5. Finally, execute:
+
+    sudo ln -sf /usr/local/games/smokinguns/smokinguns.desktop /usr/share/applications/smokinguns.desktop
+
+ 6. Check to see that see it in your Games menu.
+
+If any steps are missing, please click "edit" on this file up above.
 
