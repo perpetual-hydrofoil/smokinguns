@@ -1,0 +1,100 @@
+Oririginal artwork by sig11:
+============================
+- recreated textures
+   gfx/2d/crosshaira.tga
+   gfx/2d/defer.tga
+   gfx/damage/shadow.tga
+   gfx/misc/sun.jpg
+   gfx/misc/tracer2.jpg
+   menu/art/3_cursor2.tga
+   textures/base_light/proto_light2.jpg
+
+- recreated text files:
+   botfiles/bots/default_c.c
+   scripts/base_light.shader
+   scripts/liquid.shader
+
+Original model by BNT:
+======================
+   models/weapons2/shells/M_shell.jpg
+   models/weapons2/shells/m_shell.MD3
+
+Original sounds by deugly:
+==========================
+   sound/player/watr_un.wav       water2.wav
+   sound/player/watr_out.wav      water3.wav
+   sound/items/poweruprespawn.wav
+
+Imported "free" files:
+======================
+- from OpenArena :
+   gfx/2d/bigchars.tga
+   gfx/2d/net.jpg
+   gfx/2d/select.tga
+   gfx/damage/blood_screen.tga
+   gfx/damage/blood_spurt.tga
+   gfx/damage/blood_stain.tga
+   gfx/colors/black.jpg
+   gfx/misc/flare.jpg
+   gfx/misc/smokepuff2b.tga
+   gfx/misc/smokepuff3.tga
+   gfx/misc/smokepuffragepro.tga
+   textures/stone/pjrock21.tga         (re-colored and resized)
+   textures/effects/tinfx.jpg
+   textures/base_floor/concrete.jpg    (resized)
+   textures/base_trim/pewter.jpg       (resized)
+   textures/base_wall/concrete.jpg     (resized)
+   sprites/bubble.tga
+   sprites/splash.jpg
+   sound/feedback/hit.wav
+   sound/player/fry.wav
+   sound/player/gurp1.wav
+   sound/player/gurp2.wav
+   sound/weapons/change.wav
+   sound/weapons/machinegun/buletby1.wav
+   sound/world/electro.wav
+ 
+- from http://www.aslan4u.info/id24.htm
+   sound/weapons/noammo.wav         (SCHALTER.WAV)
+
+- from http://amazingsounds.iespana.es/en/
+   sound/movers/doors/dr1_strt.wav  (sliderock.wav)
+   sound/player/watr_in.wav         (plask1.wav)
+
+- from http://www.vionline.com/sound.html
+   baseq3/sound/player/talk.wav     (arrow.wav)
+
+Modified "free" files:
+======================
+- Based on a screenshot from "stellarium" made by sig11
+   textures/skies/stars.tga
+
+- Based upon http://gg.planetquake.gamespy.com/textures/aardtex.html
+   textures/base_support/grate1_4_small.jpg                 (aardmtrim32_3.jpg)
+
+- Based upon Morguefile (http://www.morguefile.com)
+                                                                (NAME, Ref.-ID)
+   textures/base_support/metal1_1.jpg                    (DSC05446.jpg,  40392)
+   textures/base_light/proto_light.JPG       (bmw5series_headlight.JPG,  55607)
+   textures/base_light/proto_lightmap.JPG    (bmw5series_headlight.JPG,  55607)
+   textures/sfx/flame1.tga                                  (fire1.jpg,  44214)
+   textures/sfx/flame2.tga                                  (fire1.jpg,  44214)
+   textures/sfx/flame3.tga                                  (fire1.jpg,  44214)
+   textures/sfx/flame4.tga                                  (fire1.jpg,  44214)
+   textures/sfx/flame5.tga                                  (fire2.jpg,  43939)
+   textures/sfx/flame6.tga                                  (fire2.jpg,  43939)
+   textures/sfx/flame7.tga                                  (fire2.jpg,  43939)
+   textures/sfx/flame8.tga                                  (fire2.jpg,  43939)
+   textures/sfx/flameball.tga                               (fire2.jpg,  43939)
+   textures/skies/dimclouds.jpg                  (sw_moon_clouds_4.jpg,  39339)
+   env/xnight2_up.tga                              (moon_and_venus.jpg,  61598)
+   env/xnight2_dn.tga                              (moon_and_venus.jpg,  61598)
+   env/xnight2_bk.tga                              (moon_and_venus.jpg,  61598)
+   env/xnight2_ft.tga                              (moon_and_venus.jpg,  61598)
+   env/xnight2_rt.tga                              (moon_and_venus.jpg,  61598)
+   env/xnight2_lf.tga                              (moon_and_venus.jpg,  61598)
+
+- Based upon http://astronomy.swin.edu.au/~pbourke/texture/water/
+   pool3d_3e.jpg                    (caustics1.jpg)
+   pool3d_5e.jpg                    (caustics1.jpg)
+

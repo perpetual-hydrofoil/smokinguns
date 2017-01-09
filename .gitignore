@@ -1,3 +1,6 @@
+# ioquake pk3 files
+*.pk3
+
 # Object files
 *.o
 *.ko

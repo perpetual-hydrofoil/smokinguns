@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Smokin Guns
+Name[en]=Smokin Guns
+GenericName=Western Shoot-em-up
+GenericName[en]=Western Shoot-em-up
+Comment=Smokin Guns, based on the ioquake engine
+Comment[en]=Smokin Guns, based on the ioquake engine
+Icon=/usr/local/games/smokinguns/sg_48.png
+Exec=/usr/local/games/smokinguns/smokinguns.sh
+Terminal=false
+StartupNotify=false
+Categories=Game;ArcadeGame;
+Keywords=game;arcade;platform;
