@@ -6,9 +6,11 @@ HOW TO INSTALL:
 
  1. Extract the release 1.1-1 tarball to /usr/local/games/smokinguns/:
 
+
     curl -L https://github.com/jamiesonbecker/smokinguns/releases/download/v1.1-1/smokinguns.tar.gz | \
 
         sudo tar -zxC /usr/local/games/
+
 
  2. You may need to:
 
