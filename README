@@ -4,14 +4,12 @@ including all optional maps and packs available as of that date, compiled for 64
 HOW TO INSTALL:
 ===============
 
- 1. Download the release 1.1-1 tarball for your 64 bit Linux from:
-    https://github.com/jamiesonbecker/smokinguns/releases/tag/v1.1-1
+ 1. Extract the release 1.1-1 tarball to /usr/local/games/smokinguns/:
 
- 2. Extract this tarball to /usr/local/games/smokinguns/:
     curl -L https://github.com/jamiesonbecker/smokinguns/releases/download/v1.1-1/smokinguns.tar.gz | \
         sudo tar -zxC /usr/local/games/
 
- 3. You may need to:
+ 2. You may need to:
 
         sudo apt-get install libsdl-dev libfreetype6-dev libgl1-mesa-dev
 
@@ -23,11 +21,11 @@ HOW TO INSTALL:
 
         sudo yum install libsdl-devel libfreetype6-devel libgl1-mesa-devel
 
- 4. Finally, execute:
+ 3. Finally, execute:
 
     sudo ln -sf /usr/local/games/smokinguns/smokinguns.desktop /usr/share/applications/smokinguns.desktop
 
- 5. Check to see that see it in your Games menu.
+ 4. Finished - it should be in your games menu!
+
 
 If any steps are missing, please click "edit" on this file up above.
-
