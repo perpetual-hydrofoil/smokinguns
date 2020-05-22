@@ -1,5 +1,7 @@
-This is a complete install of Smoking Guns 1.1 for Linux (git as of Jan 8, 2017),
+This is a complete install of Smokin' Guns (Smoking Guns) 1.1 for Linux (git as of Jan 8, 2017),
 including all optional maps and packs available as of that date, compiled for 64-bit Linux.
+
+See https://www.smokin-guns.org/ for the website. This is a great game for kids to play as well if you don't mind cartoonish violence and, of course, the smokes ;)
 
 HOW TO INSTALL:
 ===============
